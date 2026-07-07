@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,100:e94560&height=220&section=header&text=Rogério%20Caetano&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=📱%20Mobile%20%26%20Frontend%20Developer%20|%20Curitiba,%20Paraná%20🌿&descAlignY=58&descColor=a8b2d8" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=📱+Mobile+Developer+com+React+Native;💻+Frontend+Developer+apaixonado;⚡+JavaScript+%26+TypeScript+lover;🚀+Sempre+construindo+algo+novo!;✨+Transformando+ideias+em+experiências!)](https://git.io/typing-svg)
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=rogeriocaetanojr&color=e94560&style=for-the-badge&label=VISITANTES+DO+PERFIL" alt="Profile views"/>
@@ -12,13 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-### 👋 Olá, eu sou o Rogério!
-
-<br/>
-
-🔭 Apaixonado por **Desenvolvimento Mobile e Front-End**
+### 👋 Olá, eu sou o Rogério Caetano!
 
 📱 Desenvolvedor **React Native** para iOS & Android
 
@@ -28,12 +18,9 @@
 
 🚀 Sempre explorando novas **Tecnologias e Tendências**
 
-
 🎯 Foco em performance, UX e **Código Limpo**
 
 🌐 **Portfólio:** [rogeriocaetanojr.github.io/portfolio-rogerio](https://rogeriocaetanojr.github.io/portfolio-rogerio/)
-
-<br clear="right"/>
 
 ---
 
@@ -67,9 +54,9 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=rogeriocaetanojr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_radius=12&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rogeriocaetanojr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_radius=12&count_private=true"/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriocaetanojr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_radius=12&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriocaetanojr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_radius=12&langs_count=8"/>
 
 </div>
 
@@ -81,47 +68,11 @@
 
 ---
 
-## 🏆 Troféus GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rogeriocaetanojr&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rogeriocaetanojr/rogeriocaetanojr/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rogeriocaetanojr/rogeriocaetanojr/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://github.com/rogeriocaetanojr/rogeriocaetanojr/blob/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 ## 🌐 Vamos nos Conectar!
 
 <div align="center">
 
 [![Portfólio](https://img.shields.io/badge/🌐%20Portfólio-e94560?style=for-the-badge&logoColor=white)](https://rogeriocaetanojr.github.io/portfolio-rogerio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogeriocaetanojr)
-
-</div>
-
----
-
-<div align="center">
-
-*"A melhor maneira de prever o futuro é criá-lo."* 🚀
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:1a1a2e,100:0d1117&height=130&section=footer" width="100%"/>
 
 </div>

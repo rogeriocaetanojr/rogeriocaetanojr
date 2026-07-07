@@ -18,19 +18,18 @@
 
 <br/>
 
-🔭 Apaixonado por **desenvolvimento Mobile e front-end**
+🔭 Apaixonado por **Desenvolvimento Mobile e Front-End**
 
 📱 Desenvolvedor **React Native** para iOS & Android
 
 🌐 Desenvolvedor **React** para aplicações Web
 
-🌍 Baseado em **Curitiba, Paraná** 🌿
+🌍 De **Curitiba, Paraná** 🌿
 
-🚀 Sempre explorando novas **tecnologias e tendências**
+🚀 Sempre explorando novas **Tecnologias e Tendências**
 
-💡 Transformando **ideias em experiências digitais** incríveis
 
-🎯 Foco em performance, UX e **código limpo**
+🎯 Foco em performance, UX e **Código Limpo**
 
 🌐 **Portfólio:** [rogeriocaetanojr.github.io/portfolio-rogerio](https://rogeriocaetanojr.github.io/portfolio-rogerio/)
 

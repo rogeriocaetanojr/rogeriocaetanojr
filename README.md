@@ -23,15 +23,23 @@ Com foco em **Desenvolvimento Front-End e Mobile**, construindo apps com React e
 
 </div>
 
-## 🔥 Minhas Estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rogeriocaetanojr&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=rogeriocaetanojr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_radius=12&count_private=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriocaetanojr&layout=compact&theme=radical&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=rogeriocaetanojr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_radius=12&langs_count=8"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rogeriocaetanojr&theme=radical&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=ff6b6b&currStreakNum=ffffff&sideNums=a8b2d8&currStreakLabel=e94560&sideLabels=a8b2d8&dates=a8b2d8&border_radius=12" alt="GitHub Streak"/>
+
+</div>
+
+---
 
 ## 🌐 Vamos nos conectar
 

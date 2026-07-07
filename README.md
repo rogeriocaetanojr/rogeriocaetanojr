@@ -1,14 +1,13 @@
-## Olá, eu sou o Rogério Caetano! 
 
-##  Sobre Mim
+##  Olá, eu sou o Rogério!
 
 Sou estudante de Engenharia de Software em Curitiba, Brasil.
 
 Com foco em **Desenvolvimento Front-End e Mobile**, construindo apps com React e React Native para iOS & Android.
 
-🌐 Confira meu portfólio: [rogeriocaetanojr.github.io/portfolio-rogerio](https://rogeriocaetanojr.github.io/portfolio-rogerio/)
+Confira meu portfólio: [rogeriocaetanojr.github.io/portfolio-rogerio](https://rogeriocaetanojr.github.io/portfolio-rogerio/)
 
-## 🛠 Linguagens e Ferramentas
+## Linguagens e Ferramentas
 
 <div align="center">
 
@@ -23,15 +22,8 @@ Com foco em **Desenvolvimento Front-End e Mobile**, construindo apps com React e
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=rogeriocaetanojr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_radius=12&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=rogeriocaetanojr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_radius=12&langs_count=8"/>
-
-</div>
 
 <div align="center">
 
@@ -41,11 +33,11 @@ Com foco em **Desenvolvimento Front-End e Mobile**, construindo apps com React e
 
 ---
 
-## 🌐 Vamos nos conectar
+## Vamos nos conectar
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogeriocaetanojr/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogeriocaetanojr)
 
 </div>
